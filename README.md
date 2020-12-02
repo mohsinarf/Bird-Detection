@@ -1,1 +1,1 @@
-# Bird-detection-using-convolution-neural-network-
+# Bird-detection-using-convolution-neural-network
