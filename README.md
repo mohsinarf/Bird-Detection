@@ -1,4 +1,4 @@
-# Bird-detection-using-convolution-neural-network
+# Bird-Detection
 
 
 It can detect birds in the images with an accuracy of 89%.
